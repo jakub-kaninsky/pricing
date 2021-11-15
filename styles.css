@@ -31,7 +31,6 @@ body {
   min-height: 40px;
 }
 
-button {
-  margin-top: 20px;
-  margin-bottom: 10px;
+a{
+  text-decoration: none
 }
